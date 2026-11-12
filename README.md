@@ -1,16 +1,26 @@
-## Hi there 👋
+### 안녕하세요 👋
 
-<!--
-**yemy0224/yemy0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+교육·입시 분야에서 콘텐츠와 서비스를 기획합니다.  
+기획에서 멈추지 않고, 일과 생활에 필요한 도구는 직접 만들어 씁니다.
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 만든 것
+
+| 프로젝트 | 소개 | 기술 |
+| --- | --- | --- |
+| [**모일까**](https://github.com/yemy0224/moilkka) | 날짜 투표 없이, 칠해두기만 하면 약속이 잡히는 친구 모임 웹앱. 실제 친구 모임에서 쓰고 있어요. | JavaScript · Supabase · Vercel |
+
+&nbsp;
+
+#### ✍️ 이렇게 만들어요
+
+- **규칙부터 설계합니다.** 기능보다 "쓰는 사람이 헷갈리거나 서운하지 않으려면 어떤 규칙이 필요할까"를 먼저 정해요.
+- **AI와 함께 만듭니다.** 코드는 Claude와 함께 쓰고, 기획·정책·테스트·배포는 직접 맡아요.
+- **직접 써보며 다듬습니다.** 실제 사용자 반응을 보고 규칙과 화면을 계속 고쳐 나가요.
+
+&nbsp;
+
+#### 📚 지금 배우는 것
+
+HTML · CSS · JavaScript를 한 줄씩 직접 써보며 기초부터 익히는 중이에요.
